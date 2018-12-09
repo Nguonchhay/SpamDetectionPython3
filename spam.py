@@ -7,7 +7,7 @@ import pickle
 
 
 def save(clf, name):
-    pickle.dump(clf, open(name, "wb")
+    pickle.dump(clf, open(name, "wb"))
 
 
 def make_dict():

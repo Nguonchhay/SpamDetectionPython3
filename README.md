@@ -25,7 +25,8 @@ __Note__: there will be a file named `spam_detection.classifier` is created.
 Run the `detector.py` file
 Find a collection of text that you want to test
 Convert text into a single line
-Paste it in the command-line of the program `detector.py`
+Paste it in the command-line input of the program `detector.py`
+Exit the detection by type `exit`
 ```
 
 # Future Improvement
